@@ -1,0 +1,9 @@
+/Users/darkdestiny/ProyectoInteliJ/2026_1/AdministarcionEventtos/src/main/java/com/ipn/mx/administarcioneventtos/AdministarcionEventtosApplication.java
+/Users/darkdestiny/ProyectoInteliJ/2026_1/AdministarcionEventtos/src/main/java/com/ipn/mx/administarcioneventtos/core/domain/Asistente.java
+/Users/darkdestiny/ProyectoInteliJ/2026_1/AdministarcionEventtos/src/main/java/com/ipn/mx/administarcioneventtos/core/domain/Evento.java
+/Users/darkdestiny/ProyectoInteliJ/2026_1/AdministarcionEventtos/src/main/java/com/ipn/mx/administarcioneventtos/features/evento/controller/EventoController.java
+/Users/darkdestiny/ProyectoInteliJ/2026_1/AdministarcionEventtos/src/main/java/com/ipn/mx/administarcioneventtos/features/evento/repository/EventoRepository.java
+/Users/darkdestiny/ProyectoInteliJ/2026_1/AdministarcionEventtos/src/main/java/com/ipn/mx/administarcioneventtos/features/evento/service/EventoService.java
+/Users/darkdestiny/ProyectoInteliJ/2026_1/AdministarcionEventtos/src/main/java/com/ipn/mx/administarcioneventtos/features/evento/service/impl/EventoServiceImpl.java
+/Users/darkdestiny/ProyectoInteliJ/2026_1/AdministarcionEventtos/src/main/java/com/ipn/mx/administarcioneventtos/util/service/EmailService.java
+/Users/darkdestiny/ProyectoInteliJ/2026_1/AdministarcionEventtos/src/main/java/com/ipn/mx/administarcioneventtos/util/service/impl/EmailServiceImpl.java
